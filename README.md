@@ -20,7 +20,7 @@
 
 - Save the file as minesweeper_game.py;
 
-- Run the Game: Open your terminal (or Command Prompt) and navigate to the directory where you saved pong_game.py;
+- Run the Game: Open your terminal (or Command Prompt) and navigate to the directory where you saved minesweeper_game.py;
 
 - Run the game with: python3 minesweeper_game.py.
 
