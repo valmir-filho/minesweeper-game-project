@@ -4,7 +4,7 @@
 
 ## Content:
 
-- Minesweeper Project developed in Python.
+- Minesweeper Game Project developed in Python.
 
 ## Instructions:
 
