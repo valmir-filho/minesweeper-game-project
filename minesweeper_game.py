@@ -1,6 +1,7 @@
-import tkinter as tk  # Import the Tkinter library for GUI creation.
 from tkinter import messagebox  # Import messagebox for pop-up dialogs.
 import random  # Import random for generating random mine locations.
+import tkinter as tk  # Import the Tkinter library for GUI creation.
+
 
 class Minesweeper:
 
@@ -136,12 +137,9 @@ class Minesweeper:
 
 # Create the main window (Tkinter root window).
 root = tk.Tk()
-
 # Set the title of the window.
 root.title("Minesweeper")
-
 # Initialize the Minesweeper game.
 game = Minesweeper(root)
-
 # Run the Tkinter event loop (keeps the window open).
 root.mainloop()
